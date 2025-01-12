@@ -7,7 +7,6 @@ readme_template_path = Path("README_template.md")
 readme_path = Path("README.md")
 
 five_lang_path = Path("five_lang.yaml")
-five_lang_path_second_rank = Path("five_lang_second_rank.yaml")
 
 
 # sort alphabetically
@@ -20,24 +19,25 @@ def key_without_article(s):
 
 
 def add_five_lang(content: str) -> str:
-    for file_path, content_placeholder in zip(
-            [five_lang_path, five_lang_path_second_rank],
+    df = pd.DataFrame(
+        yaml_load(file_path=five_lang_path),
+        columns=["category", "French", "Italian", "German", "English", "Spanish", "Notes"]
+    )
+
+    for category, content_placeholder in zip(
+            [1, 2],
             ["\nCONTENT_FIVE_LANG\n", "\nCONTENT_FIVE_LANG_SECOND_RANK\n"]
     ):
-        df = pd.DataFrame(
-            yaml_load(file_path=file_path),
-            columns=["French", "Italian", "German", "English", "Spanish", "Notes"]
-        )
+        _df = df[df["category"] == category]
+        _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
 
-        df = df.sort_values(by="French", key=lambda col: col.map(key_without_article))
-
-        table = df.to_markdown(
+        _df = _df.drop(columns=["category"])
+        table = _df.to_markdown(
             index=False,
-            colalign=["center"] * len(df.columns)
+            colalign=["center"] * len(_df.columns)
         )
 
         content = content.replace(content_placeholder, f"\n{table}\n")
-
     return content
 
 
