@@ -39,6 +39,13 @@ def add_five_lang(content: str) -> str:
                 print(f"duplicate in {column_to_check}:\n{dup}")
 
         _df = _df.drop(columns=["category"])
+        _df.rename(columns={
+            'French': 'French ( :fr: )',
+            'Italian': 'Italian ( :it: )',
+            'German': 'German ( :de: )',
+            'English': 'English ( :uk: )',
+            'Spanish': 'Spanish ( :es: )'
+        }, inplace=True)
         table = _df.to_markdown(
             index=False,
             colalign=["center"] * len(_df.columns)

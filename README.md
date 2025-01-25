@@ -1,11 +1,8 @@
-# LINGUE
+Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), German ( :de: ), English ( :uk: ), and Spanish ( :es: ) **look and sound all very different**.
 
-## :fr: :it: :de: :uk: :es:
+# :1st_place_medal: FIRST RANK
 
-Looking for words whose **translations** in French (:fr:), Italian (:it:), German (:de:), English (:uk:), and Spanish (:es:) **look and sound all very different**.
-
-
-|          French           |              Italian               |             German             |           English           |         Spanish         |    Notes    |
+|      French ( :fr: )      |          Italian ( :it: )          |        German ( :de: )         |      English ( :uk: )       |    Spanish ( :es: )     |    Notes    |
 |:-------------------------:|:----------------------------------:|:------------------------------:|:---------------------------:|:-----------------------:|:-----------:|
 |        l'allumette        |           il fiammifero            |         s Streichholz          |            match            |       la cerilla        |             |
 |    l'ampoule (lumière)    |            la lampadina            |          e Glühbirne           |            bulb             |       la bombilla       |             |
@@ -93,9 +90,9 @@ Looking for words whose **translations** in French (:fr:), Italian (:it:), Germa
 |          l'évier          |            il lavandino            |          s Spülbecken          |            sink             |      el fregadero       |             |
 
 
-### Second rank
+# :2nd_place_medal: SECOND RANK
 
-|             French             |         Italian         |        German        |            English             |             Spanish              |    Notes    |
+|        French ( :fr: )         |    Italian ( :it: )     |   German ( :de: )    |        English ( :uk: )        |         Spanish ( :es: )         |    Notes    |
 |:------------------------------:|:-----------------------:|:--------------------:|:------------------------------:|:--------------------------------:|:-----------:|
 |           l'abattoir           |       il macello        |    r Schlachthof     |         slaughterhouse         |           el matadero            |             |
 |          l'aiguillage          |        il cambio        |       e Weiche       |        points (switch)         |     la aguja (el cambiavìa)      |             |
