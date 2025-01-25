@@ -14,9 +14,9 @@ def key_without_article(s):
     articles = ["les ", "la ", "le ", "l'"]
     for article in articles:
         if s.startswith(article):
-            return s[len(article):]
-    raise ValueError(f"Article not found in {s}")
-
+            return s[len(article):].lower()
+    print(f"Article not found in {s}")
+    return s.lower()
 
 def add_five_lang(content: str) -> str:
     df = pd.DataFrame(
@@ -30,6 +30,13 @@ def add_five_lang(content: str) -> str:
     ):
         _df = df[df["category"] == category]
         _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
+
+        # detect duplicates
+        df_lower = _df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
+        for column_to_check in ["French", "Italian", "German", "English", "Spanish"]:
+            dup = df_lower[df_lower.duplicated([column_to_check], keep=False)]
+            if not dup.empty:
+                print(f"duplicate in {column_to_check}:\n{dup}")
 
         _df = _df.drop(columns=["category"])
         table = _df.to_markdown(
