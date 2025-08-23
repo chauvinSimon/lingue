@@ -21,7 +21,7 @@ def key_without_article(s):
 def add_five_lang(content: str) -> str:
     df = pd.DataFrame(
         yaml_load(file_path=five_lang_path),
-        columns=["category", "French", "Italian", "German", "English", "Spanish", "Notes"]
+        columns=["category", "French", "Italian", "German", "English", "Spanish", " :wink: "]
     )
 
     for category, content_placeholder in zip(
