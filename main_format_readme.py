@@ -9,6 +9,10 @@ readme_path = Path("README.md")
 
 five_lang_path = Path("five_lang.yaml")
 
+mp3_urls = {
+    1: "https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing",
+    2: "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
+}
 
 # sort alphabetically
 def key_without_article(s):
@@ -58,7 +62,8 @@ def add_five_lang(content: str) -> str:
             colalign=["center"] * len(_df.columns)
         )
 
-        content = content.replace(content_placeholder, f"\n{table}\n")
+        url_link = f"[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ]({mp3_urls[category]})"
+        content = content.replace(content_placeholder, f"\n{url_link}\n\n{table}\n")
     return content
 
 

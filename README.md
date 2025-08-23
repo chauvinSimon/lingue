@@ -2,6 +2,8 @@ Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), G
 
 # :1st_place_medal: FIRST RANK
 
+[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
+
 |  #  |      French ( :fr: )      |          Italian ( :it: )          |         German ( :de: )          |        English ( :uk: )         |           Spanish ( :es: )           |          :wink:          |
 |:---:|:-------------------------:|:----------------------------------:|:--------------------------------:|:-------------------------------:|:------------------------------------:|:------------------------:|
 |  1  |        l'allumette        |           il fiammifero            |         das Streichholz          |            the match            |              la cerilla              |          :fire:          |
@@ -115,6 +117,8 @@ Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), G
 
 
 # :2nd_place_medal: SECOND RANK
+
+[ :arrow_forward: _Listen to the audio (in a new tab)_ :loud_sound: ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
 
 |  #  |        French ( :fr: )         |        Italian ( :it: )        |         German ( :de: )          |         English ( :uk: )          |         Spanish ( :es: )         |       :wink:       |
 |:---:|:------------------------------:|:------------------------------:|:--------------------------------:|:---------------------------------:|:--------------------------------:|:------------------:|
