@@ -50,7 +50,10 @@ def generate_tts(
         df: pd.DataFrame,
         prefix: str = "",
         overwrite: bool = False,
+        pause_duration_ms: int = 1000,
 ):
+    print("\n")
+
     # df = df[:3]
 
     df["German"] = df["German"].apply(fix_german)
@@ -66,11 +69,11 @@ def generate_tts(
         "Spanish": "es"
     }
 
-    saving_dir = Path("tts_output") / prefix
+    root_saving_dir = Path("tts_output")
+    saving_dir = root_saving_dir / prefix
     saving_dir.mkdir(exist_ok=True, parents=True)
 
-    # 1sec break between words
-    pause = AudioSegment.silent(duration=1000)
+    pause = AudioSegment.silent(duration=pause_duration_ms)
 
     # -------------------------------
 
@@ -84,7 +87,7 @@ def generate_tts(
 
         saving_path = saving_dir / f"{row_name}.mp3"
 
-        all_files.append(str(saving_path))
+        all_files.append(saving_path)
 
         if saving_path.exists() and (not overwrite):
             print(f"❌ already exists : {saving_path}")
@@ -121,11 +124,16 @@ def generate_tts(
 
     # -------------------------------
     # concatenate all
+    name_saved = set([p.stem for p in saving_dir.glob("*.mp3")])
+    name_required = set([p.stem for p in all_files])
+    print(f"missing   : {name_required - name_saved}")
+    print(f"not needed: {name_saved - name_required}")
+
     final_audio = AudioSegment.empty()
     for file in all_files:
         final_audio += AudioSegment.from_mp3(file) + pause
 
-    saving_path = saving_dir / "all_rows.mp3"
+    saving_path = root_saving_dir / f"{prefix}__{len(all_files)}_rows.mp3"
     # if not saving_path.exists() and overwrite:
     final_audio.export(saving_path, format="mp3")
     print(f"🎉 final generated : {saving_path}")
