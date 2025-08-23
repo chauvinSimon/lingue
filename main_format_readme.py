@@ -1,6 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
+from tts import generate_tts
 from utils import read_file, save_file, yaml_load
 
 readme_template_path = Path("README_template.md")
@@ -39,6 +40,11 @@ def add_five_lang(content: str) -> str:
                 print(f"duplicate in {column_to_check}:\n{dup}")
 
         _df = _df.drop(columns=["category"])
+
+        _df.insert(0, "#", range(1, len(_df) + 1))
+
+        generate_tts(_df, prefix=f"{category}")
+
         _df.rename(columns={
             'French': 'French ( :fr: )',
             'Italian': 'Italian ( :it: )',
@@ -46,8 +52,6 @@ def add_five_lang(content: str) -> str:
             'English': 'English ( :uk: )',
             'Spanish': 'Spanish ( :es: )'
         }, inplace=True)
-
-        _df.insert(0, "", range(1, len(_df) + 1))
 
         table = _df.to_markdown(
             index=False,

@@ -2,7 +2,7 @@ Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), G
 
 # :1st_place_medal: FIRST RANK
 
-|     |      French ( :fr: )      |          Italian ( :it: )          |        German ( :de: )         |      English ( :uk: )       |           Spanish ( :es: )           |          :wink:          |
+|  #  |      French ( :fr: )      |          Italian ( :it: )          |        German ( :de: )         |      English ( :uk: )       |           Spanish ( :es: )           |          :wink:          |
 |:---:|:-------------------------:|:----------------------------------:|:------------------------------:|:---------------------------:|:------------------------------------:|:------------------------:|
 |  1  |        l'allumette        |           il fiammifero            |         s Streichholz          |            match            |              la cerilla              |          :fire:          |
 |  2  |    l'ampoule (lumière)    |            la lampadina            |          e Glühbirne           |            bulb             |             la bombilla              |          :bulb:          |
@@ -116,54 +116,54 @@ Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), G
 
 # :2nd_place_medal: SECOND RANK
 
-|    |        French ( :fr: )         |        Italian ( :it: )        |        German ( :de: )         |        English ( :uk: )        |         Spanish ( :es: )         |       :wink:       |
-|:--:|:------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|:--------------------------------:|:------------------:|
-| 1  |           l'abattoir           |           il macello           |         r Schlachthof          |         slaughterhouse         |           el matadero            |   :meat_on_bone:   |
-| 2  |  l'adventice / mauvaise herbe  | l'erbaccia / pianta infestante |           s Unkraut            |              weed              |            la maleza             |       :herb:       |
-| 3  |          l'aiguillage          |           il cambio            |            e Weiche            |        points (switch)         |     la aguja (el cambiavìa)      |  :railway_track:   |
-| 4  |         l'arc-en-ciel          |          l'arcobaleno          |          r Regenbogen          |            rainbow             |           el arco iris           |     :rainbow:      |
-| 5  |  l'axe/le boîtier de pédalier  |     il movimento centrale      |          s Tretlager           |         bottom bracket         |         il eje pedalier          |       :bike:       |
-| 6  |         le bagayement          |            balbuzie            |           s Stottern           |           stuttering           |          la tartamudez           |  :speaking_head:   |
-| 7  |            bailler             |          sbadigliare           |             gähnen             |              yawn              |             bostezar             |   :yawning_face:   |
-| 8  |       le bonnet de bain        |       la cuffia da bagno       |          e Badekappe           |          bathing cap           |         il gorro de baño         |     :swimmer:      |
-| 9  |       la bouse de vache        |       lo sterco di mucca       |          r Kuhfladen           |            cow dung            |        estiércol de vaca         |       :poop:       |
-| 10 |           le cadenas           |          il lucchetto          |           r Schloss            |           (pad)lock            |             candado              |       :lock:       |
-| 11 |           le cafard            |         lo scarafaggio         |          e Kakerlake           |           cockroach            |           la cucaracha           |    :cockroach:     |
-| 12 |         le champignon          |            il fungo            |             r Pilz             |            mushroom            | la seta (el hongo, el champiñón) |     :mushroom:     |
-| 13 | le coton-tige (bâtonnet ouaté) |         i cotton fioc          |        s Wattestäbchen         |       cotton bud (swab)        |   los bastoncillos de algodón    |  :lotion_bottle:   |
-| 14 |      le décolleté (robe)       |         la scollatura          |          r Ausschnitt          |            neckline            |            el escote             |      :dress:       |
-| 15 |        entre guillemets        |         tra virgolette         |      in Anführungszeichen      |       in inverted commas       |          entre comillas          |  :speech_balloon:  |
-| 16 |           l'entrepôt           |          il maggazino          |            r Lager             |           warehouse            |            el almacén            |     :package:      |
-| 17 |    l'entretien (d'embauche)    |          il colloquio          |     s Vorstellungsgespräch     |           interview            |           l'entrevista           |    :briefcase:     |
-| 18 |        la fiche de paie        |         la busta paga          |          r Lohnzettel          |            payslip             |             a nómina             | :money_with_wings: |
-| 19 |      la flasque de hanche      |     la fiaschetta per anca     |          r Flachmann           |           hip flask            |            la petaca             |  :tumbler_glass:   |
-| 20 |         la flottaison          |       la galleggiabilità       |           r Auftrieb           |            buoyancy            |         la flotabilidad          |       :boat:       |
-| 21 |            le flou             |          la sfocatura          |          e Unschärfe           |              blur              |          el desenfoque           |  :face_in_clouds:  |
-| 22 |           la gorgée            |            il sorso            |           r Schluck            |              sip               |             il sorbo             |  :cup_with_straw:  |
-| 23 |           le hocket            |         il singhiozzo          |          r Schluckauf          |             hiccup             |             el hipo              |    :woozy_face:    |
-| 24 |            la hotte            |            la cappa            |            e Haube             |              hood              |            la campana            |       :stew:       |
-| 25 |     l'impasse (cul de sac)     |          vicolo cieco          |          e Sackgasse           |            dead end            |       callejón sin salida        |     :no_entry:     |
-| 26 |             jaune              |             gialla             |              gelb              |             yellow             |             amarilla             |  :yellow_circle:   |
-| 27 |        le jaune d'oeuf         |       il tuorlo (d'uovo)       |      s Eigelb (Eidotter)       |           (egg) yolk           |             la yema              |       :egg:        |
-| 28 |        le lit superposé        |      il letto a castello       | s Doppelstockbett / Etagenbett |            bunk bed            |            la litera             |       :bed:        |
-| 29 |       le maillot de bain       |      il costume da bagno       |          r Badeanzug           |            swimsuit            |            el bañador            |      :bikini:      |
-| 30 |          les miettes           |            briciole            |            e Krümel            |             crumbs             |           las migajas            |      :bread:       |
-| 31 |          la mâchoire           |          la mascella           |            r Kiefer            |              jaw               |           la mandíbula           |       :lips:       |
-| 32 |            le navet            |            la rapa             |             e Rübe             |             turnip             |             el nabo              |      :carrot:      |
-| 33 |        le nid d'abeille        |            la cella            |             e Wabe             |           honeycomb            |             el panal             |    :honey_pot:     |
-| 34 |           le parasol           |          l'ombrellone          |         r Sonnenschirm         |       sunshade (parasol)       |           la sombrilla           |     :umbrella:     |
-| 35 |          le peignoir           |         il accappatoio         |          r Bademantel          |            bathrobe            |         la bata de baño          |       :bath:       |
-| 36 |          pile ou face          |         testa o croce          |           r Münzwurf           |         coin flipping          |           cara o cruz            |       :coin:       |
-| 37 |        la pince à linge        |          la molletta           |        e Wäscheklammer         |          clothes peg           |       la pinza de la ropa        |      :socks:       |
-| 38 |        le point de côté        |    il dolore in ipocondrio     |        s Seitenstechen         |          side stitch           |             el flato             |      :runner:      |
-| 39 |        les pois chiches        |             i ceci             |         e Kichererbsen         |           chickpeas            |            garbanzos             |      :beans:       |
-| 40 |     la police (d'écriture)     |          il carattere          |          e Schriftart          |              font              |            la fuente             |       :abcd:       |
-| 41 |         péter un câble         |            sclerare            |           ausflippen           | freak out/ go nuts/ (flip out) |           desmadrarse            |  :exploding_head:  |
-| 42 |    le rouleau à pâtisserie     |         il mattarello          |          s Nudelholz           |          rolling pin           |             rodillo              |      :bread:       |
-| 43 |           le réveil            |           la sveglia           |            r Wecker            |          alarm clock           |          el despertador          |   :alarm_clock:    |
-| 44 |     la taille (d'un arbre)     |          la potatura           |           r Schnitt            |            pruning             |             la poda              |       :herb:       |
-| 45 |       la tige (de fleur)       |            il gambo            |            r Stiel             |              stem              |             el tallo             |     :seedling:     |
-| 46 |           le trèfle            |          il trifoglio          |          s Kleeblatt           |             clover             |            el trébol             |     :shamrock:     |
-| 47 |           le ventre            |           la pancia            |            r Bauch             |             belly              |            la barriga            |  :pregnant_woman:  |
-| 48 |           l'étagère            |          lo scaffale           |            s Regal             |             shelf              |          la estantería           |      :books:       |
-| 49 |           l'éventail           |           ventaglio            |            r Fächer            |              fan               |             abanico              |       :dash:       |
+|  #  |        French ( :fr: )         |        Italian ( :it: )        |        German ( :de: )         |        English ( :uk: )        |         Spanish ( :es: )         |       :wink:       |
+|:---:|:------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|:--------------------------------:|:------------------:|
+|  1  |           l'abattoir           |           il macello           |         r Schlachthof          |         slaughterhouse         |           el matadero            |   :meat_on_bone:   |
+|  2  |  l'adventice / mauvaise herbe  | l'erbaccia / pianta infestante |           s Unkraut            |              weed              |            la maleza             |       :herb:       |
+|  3  |          l'aiguillage          |           il cambio            |            e Weiche            |        points (switch)         |     la aguja (el cambiavìa)      |  :railway_track:   |
+|  4  |         l'arc-en-ciel          |          l'arcobaleno          |          r Regenbogen          |            rainbow             |           el arco iris           |     :rainbow:      |
+|  5  |  l'axe/le boîtier de pédalier  |     il movimento centrale      |          s Tretlager           |         bottom bracket         |         il eje pedalier          |       :bike:       |
+|  6  |         le bagayement          |            balbuzie            |           s Stottern           |           stuttering           |          la tartamudez           |  :speaking_head:   |
+|  7  |            bailler             |          sbadigliare           |             gähnen             |              yawn              |             bostezar             |   :yawning_face:   |
+|  8  |       le bonnet de bain        |       la cuffia da bagno       |          e Badekappe           |          bathing cap           |         il gorro de baño         |     :swimmer:      |
+|  9  |       la bouse de vache        |       lo sterco di mucca       |          r Kuhfladen           |            cow dung            |        estiércol de vaca         |       :poop:       |
+| 10  |           le cadenas           |          il lucchetto          |           r Schloss            |           (pad)lock            |             candado              |       :lock:       |
+| 11  |           le cafard            |         lo scarafaggio         |          e Kakerlake           |           cockroach            |           la cucaracha           |    :cockroach:     |
+| 12  |         le champignon          |            il fungo            |             r Pilz             |            mushroom            | la seta (el hongo, el champiñón) |     :mushroom:     |
+| 13  | le coton-tige (bâtonnet ouaté) |         i cotton fioc          |        s Wattestäbchen         |       cotton bud (swab)        |   los bastoncillos de algodón    |  :lotion_bottle:   |
+| 14  |      le décolleté (robe)       |         la scollatura          |          r Ausschnitt          |            neckline            |            el escote             |      :dress:       |
+| 15  |        entre guillemets        |         tra virgolette         |      in Anführungszeichen      |       in inverted commas       |          entre comillas          |  :speech_balloon:  |
+| 16  |           l'entrepôt           |          il maggazino          |            r Lager             |           warehouse            |            el almacén            |     :package:      |
+| 17  |    l'entretien (d'embauche)    |          il colloquio          |     s Vorstellungsgespräch     |           interview            |           l'entrevista           |    :briefcase:     |
+| 18  |        la fiche de paie        |         la busta paga          |          r Lohnzettel          |            payslip             |             a nómina             | :money_with_wings: |
+| 19  |      la flasque de hanche      |     la fiaschetta per anca     |          r Flachmann           |           hip flask            |            la petaca             |  :tumbler_glass:   |
+| 20  |         la flottaison          |       la galleggiabilità       |           r Auftrieb           |            buoyancy            |         la flotabilidad          |       :boat:       |
+| 21  |            le flou             |          la sfocatura          |          e Unschärfe           |              blur              |          el desenfoque           |  :face_in_clouds:  |
+| 22  |           la gorgée            |            il sorso            |           r Schluck            |              sip               |             il sorbo             |  :cup_with_straw:  |
+| 23  |           le hocket            |         il singhiozzo          |          r Schluckauf          |             hiccup             |             el hipo              |    :woozy_face:    |
+| 24  |            la hotte            |            la cappa            |            e Haube             |              hood              |            la campana            |       :stew:       |
+| 25  |     l'impasse (cul de sac)     |          vicolo cieco          |          e Sackgasse           |            dead end            |       callejón sin salida        |     :no_entry:     |
+| 26  |             jaune              |             gialla             |              gelb              |             yellow             |             amarilla             |  :yellow_circle:   |
+| 27  |        le jaune d'oeuf         |       il tuorlo (d'uovo)       |      s Eigelb (Eidotter)       |           (egg) yolk           |             la yema              |       :egg:        |
+| 28  |        le lit superposé        |      il letto a castello       | s Doppelstockbett / Etagenbett |            bunk bed            |            la litera             |       :bed:        |
+| 29  |       le maillot de bain       |      il costume da bagno       |          r Badeanzug           |            swimsuit            |            el bañador            |      :bikini:      |
+| 30  |          les miettes           |            briciole            |            e Krümel            |             crumbs             |           las migajas            |      :bread:       |
+| 31  |          la mâchoire           |          la mascella           |            r Kiefer            |              jaw               |           la mandíbula           |       :lips:       |
+| 32  |            le navet            |            la rapa             |             e Rübe             |             turnip             |             el nabo              |      :carrot:      |
+| 33  |        le nid d'abeille        |            la cella            |             e Wabe             |           honeycomb            |             el panal             |    :honey_pot:     |
+| 34  |           le parasol           |          l'ombrellone          |         r Sonnenschirm         |       sunshade (parasol)       |           la sombrilla           |     :umbrella:     |
+| 35  |          le peignoir           |         il accappatoio         |          r Bademantel          |            bathrobe            |         la bata de baño          |       :bath:       |
+| 36  |          pile ou face          |         testa o croce          |           r Münzwurf           |         coin flipping          |           cara o cruz            |       :coin:       |
+| 37  |        la pince à linge        |          la molletta           |        e Wäscheklammer         |          clothes peg           |       la pinza de la ropa        |      :socks:       |
+| 38  |        le point de côté        |    il dolore in ipocondrio     |        s Seitenstechen         |          side stitch           |             el flato             |      :runner:      |
+| 39  |        les pois chiches        |             i ceci             |         e Kichererbsen         |           chickpeas            |            garbanzos             |      :beans:       |
+| 40  |     la police (d'écriture)     |          il carattere          |          e Schriftart          |              font              |            la fuente             |       :abcd:       |
+| 41  |         péter un câble         |            sclerare            |           ausflippen           | freak out/ go nuts/ (flip out) |           desmadrarse            |  :exploding_head:  |
+| 42  |    le rouleau à pâtisserie     |         il mattarello          |          s Nudelholz           |          rolling pin           |             rodillo              |      :bread:       |
+| 43  |           le réveil            |           la sveglia           |            r Wecker            |          alarm clock           |          el despertador          |   :alarm_clock:    |
+| 44  |     la taille (d'un arbre)     |          la potatura           |           r Schnitt            |            pruning             |             la poda              |       :herb:       |
+| 45  |       la tige (de fleur)       |            il gambo            |            r Stiel             |              stem              |             el tallo             |     :seedling:     |
+| 46  |           le trèfle            |          il trifoglio          |          s Kleeblatt           |             clover             |            el trébol             |     :shamrock:     |
+| 47  |           le ventre            |           la pancia            |            r Bauch             |             belly              |            la barriga            |  :pregnant_woman:  |
+| 48  |           l'étagère            |          lo scaffale           |            s Regal             |             shelf              |          la estantería           |      :books:       |
+| 49  |           l'éventail           |           ventaglio            |            r Fächer            |              fan               |             abanico              |       :dash:       |
