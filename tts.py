@@ -9,22 +9,39 @@ def fix_german(word: str) -> str:
     if not word or len(word) < 2:
         return word
 
-    first = word[0].lower()
-    rest = word[2:].strip() if word[1] == " " else word[1:].strip()
-
-    if first == "e":  # die
-        return f"die {rest}"
-    elif first == "s":  # das
-        return f"das {rest}"
-    elif first == "r":  # der
-        return f"der {rest}"
+    if word.startswith("e "):  # die
+        return f"die {word[2:]}"
+    elif word.startswith("s "):  # das
+        return f"das {word[2:]}"
+    elif word.startswith("r "):  # der
+        return f"der {word[2:]}"
     else:
+        print(f"German article not found in {word}")
         return word
 
 
 def fix_english(word: str) -> str:
     # add article
     if not word:
+        return word
+    if word in [
+        "yellow",
+    ]:
+        return word
+    if word.startswith("to "):
+        print(f"English article not found in {word}")
+        return word
+    if word.startswith("a "):
+        print(f"English article not found in {word}")
+        return word
+    if word.startswith("in "):
+        print(f"English article not found in {word}")
+        return word
+    if word[0].isupper():
+        print(f"English article not found in {word}")
+        return word
+    if "!" in word:
+        print(f"English article not found in {word}")
         return word
     return f"the {word}"
 
@@ -59,10 +76,11 @@ def generate_tts(
 
     all_files = []
 
-    for _, row in df.iterrows():
+    for i, row in df.iterrows():
         idx = row['#']
+        # assert i == idx, f"index mismatch : {i} != {idx}"
 
-        row_name = row['English'].replace(' ', '_')
+        row_name = row['English'].replace(' ', '_').replace('/', '_')
 
         saving_path = saving_dir / f"{row_name}.mp3"
 
@@ -80,7 +98,7 @@ def generate_tts(
             text = row[lang]
             lang_code = lang_map[lang]
 
-            temp_file = saving_dir / f"tmp_{idx}_{lang}.mp3"
+            temp_file = saving_dir / f"tmp_{lang}.mp3"
             gTTS(text=text, lang=lang_code).save(str(temp_file))
 
             segment = AudioSegment.from_mp3(str(temp_file))
@@ -90,15 +108,24 @@ def generate_tts(
         combined = sum(audio_segments)
         combined.export(str(saving_path), format="mp3")
 
-        print(f"✅ generated : {saving_path}")
+        print(f"✅ generated [{idx}/{len(df)}] : {saving_path}")
+
+
+    # -------------------------------
+    # clean up
+    for lang in lang_map.keys():
+        temp_file = saving_dir / f"tmp_{lang}.mp3"
+        if temp_file.exists():
+            print(f"❌ removing : {temp_file}")
+            temp_file.unlink()
 
     # -------------------------------
     # concatenate all
     final_audio = AudioSegment.empty()
-
     for file in all_files:
         final_audio += AudioSegment.from_mp3(file) + pause
 
     saving_path = saving_dir / "all_rows.mp3"
+    # if not saving_path.exists() and overwrite:
     final_audio.export(saving_path, format="mp3")
     print(f"🎉 final generated : {saving_path}")
