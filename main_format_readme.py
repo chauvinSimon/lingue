@@ -46,6 +46,9 @@ def add_five_lang(content: str) -> str:
             'English': 'English ( :uk: )',
             'Spanish': 'Spanish ( :es: )'
         }, inplace=True)
+
+        _df.insert(0, "", range(1, len(_df) + 1))
+
         table = _df.to_markdown(
             index=False,
             colalign=["center"] * len(_df.columns)
