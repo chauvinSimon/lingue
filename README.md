@@ -1,10 +1,16 @@
-Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), German ( :de: ), English ( :uk: ), and Spanish ( :es: ) **look and sound all very different**.
+I am looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), German ( :de: ), English ( :uk: ), and Spanish ( :es: ) **look and sound all very different**.
+
+---
+
+Organisation:
+- The best examples are collected in the section [:1st_place_medal: FIRST RANK](#1st_place_medal-first-rank).
+- The rest in [:2nd_place_medal: SECOND RANK](#2nd_place_medal-second-rank).
 
 ---
 
 # :1st_place_medal: FIRST RANK
 
-[ _ :arrow_forward: Listen to the pronunciation (open this link in a new tab) :speaking_head: :loud_sound: _ ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing)
+:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |           French ( :fr: )            |          Italian ( :it: )          |         German ( :de: )          |        English ( :uk: )         |           Spanish ( :es: )           |          :wink:          |
 |:---:|:------------------------------------:|:----------------------------------:|:--------------------------------:|:-------------------------------:|:------------------------------------:|:------------------------:|
@@ -121,7 +127,7 @@ Looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), G
 
 # :2nd_place_medal: SECOND RANK
 
-[ _ :arrow_forward: Listen to the pronunciation (open this link in a new tab) :speaking_head: :loud_sound: _ ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing)
+:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |        French ( :fr: )         |        Italian ( :it: )        |         German ( :de: )          |         English ( :uk: )          |         Spanish ( :es: )         |       :wink:       |
 |:---:|:------------------------------:|:------------------------------:|:--------------------------------:|:---------------------------------:|:--------------------------------:|:------------------:|
@@ -182,3 +188,5 @@ Thank you for your interest!
 - If you have **any suggestions or corrections**, please feel free to contact me at `simon.chauvin.contact[at]gmail.com`.
 - Cheers,
 - Simon :smiley:
+
+PS: Perhaps this other personal project, this time searching for **French and Italian** words that **sound similar but have different genders**, will interest you: **[illalelo ( :fr: :it: )](https://github.com/chauvinSimon/illalelo/blob/main/README.md)**.

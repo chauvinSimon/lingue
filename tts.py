@@ -131,7 +131,8 @@ def generate_tts(
 
     final_audio = AudioSegment.empty()
     for file in all_files:
-        final_audio += AudioSegment.from_mp3(file) + pause
+        final_audio += pause + AudioSegment.from_mp3(file)
+    final_audio += pause
 
     saving_path = root_saving_dir / f"{prefix}__{len(all_files)}_rows.mp3"
     # if not saving_path.exists() and overwrite:
