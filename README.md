@@ -10,13 +10,13 @@ Organisation:
 - The best examples are collected in the section **[:1st_place_medal: FIRST RANK](#1st_place_medal-first-rank)**.
 - The other nouns in **[:2nd_place_medal: SECOND RANK](#2nd_place_medal-second-rank)**.
 - Some adjectives/verbs/expressions in **[:3rd_place_medal: THIRD RANK](#3rd_place_medal-third-rank)**.
-- In each table, the rows are sorted alphabetically according to the French entry.
+- In each table, the **rows are sorted alphabetically** according to the French entry.
 
 ---
 
 # :1st_place_medal: FIRST RANK
 
-:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/1bLlh6BvSxVieti2Jphqm5I3xWusp8lEt/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |      French ( :fr: )      |          Italian ( :it: )          |           German ( :de: )            |          English ( :uk: )           |           Spanish ( :es: )           |          :wink:          |
 |:---:|:-------------------------:|:----------------------------------:|:------------------------------------:|:-----------------------------------:|:------------------------------------:|:------------------------:|
@@ -120,7 +120,7 @@ Organisation:
 
 # :2nd_place_medal: SECOND RANK
 
-:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/107E3Uvfrimk_DphrhZs2OLFLumYZIdM-/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |           French ( :fr: )            |         Italian ( :it: )          |           German ( :de: )            |       English ( :uk: )        |         Spanish ( :es: )          |       :wink:       |
 |:---:|:------------------------------------:|:---------------------------------:|:------------------------------------:|:-----------------------------:|:---------------------------------:|:------------------:|
@@ -172,7 +172,7 @@ Organisation:
 
 # :3rd_place_medal: THIRD RANK
 
-:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing) :speaking_head: :loud_sound:
+:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/10xHgtNsL4ZsGMPndqQbh5G0sxbUz0GfH/view?usp=sharing) :speaking_head: :loud_sound:
 
 |  #  |  French ( :fr: )  |  Italian ( :it: )  |   German ( :de: )    |            English ( :uk: )             |   Spanish ( :es: )    |      :wink:      |
 |:---:|:-----------------:|:------------------:|:--------------------:|:---------------------------------------:|:---------------------:|:----------------:|

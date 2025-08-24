@@ -12,9 +12,9 @@ five_lang_path = Path("five_lang.yaml")
 url_text = "_Listen to the pronunciation (open this link in a new tab)_"
 
 mp3_urls = {
-    1: "https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing",
-    2: "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
-    3: "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
+    1: "https://drive.google.com/file/d/1bLlh6BvSxVieti2Jphqm5I3xWusp8lEt/view?usp=sharing",
+    2: "https://drive.google.com/file/d/107E3Uvfrimk_DphrhZs2OLFLumYZIdM-/view?usp=sharing",
+    3: "https://drive.google.com/file/d/10xHgtNsL4ZsGMPndqQbh5G0sxbUz0GfH/view?usp=sharing",
 }
 
 # sort alphabetically
