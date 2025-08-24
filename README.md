@@ -1,3 +1,7 @@
+> :construction: **WORK IN PROGRESS: still need to make a final review, especially for Spanish and German!** :warning:
+
+---
+
 I am looking for words whose **translations** in French ( :fr: ), Italian ( :it: ), German ( :de: ), English ( :uk: ), and Spanish ( :es: ) **look and sound all very different**.
 
 ---
@@ -7,8 +11,6 @@ Organisation:
 - The other nouns in **[:2nd_place_medal: SECOND RANK](#2nd_place_medal-second-rank)**.
 - Some adjectives/verbs/expressions in **[:3rd_place_medal: THIRD RANK](#3rd_place_medal-third-rank)**.
 - In each table, the rows are sorted alphabetically according to the French entry.
-
-:construction: WORK IN PROGRESS: still need to make a final review, especially for Spanish and German :warning:
 
 ---
 
