@@ -32,19 +32,19 @@ def add_five_lang(content: str) -> str:
         columns=["category", "French", "Italian", "German", "English", "Spanish", " :wink: "]
     )
 
+    # detect duplicates
+    df_lower = df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
+    for column_to_check in ["French", "Italian", "German", "English", "Spanish"]:
+        dup = df_lower[df_lower.duplicated([column_to_check], keep=False)]
+        if not dup.empty:
+            print(f"duplicate in {column_to_check}:\n{dup}")
+
     for category, content_placeholder in zip(
             [1, 2, 3],
             ["\nCONTENT_FIVE_LANG\n", "\nCONTENT_FIVE_LANG_SECOND_RANK\n", "\nCONTENT_FIVE_LANG_THIRD_RANK\n"]
     ):
         _df = df[df["category"] == category]
         _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
-
-        # detect duplicates
-        df_lower = _df.apply(lambda x: x.str.lower() if x.dtype == "object" else x)
-        for column_to_check in ["French", "Italian", "German", "English", "Spanish"]:
-            dup = df_lower[df_lower.duplicated([column_to_check], keep=False)]
-            if not dup.empty:
-                print(f"duplicate in {column_to_check}:\n{dup}")
 
         _df = _df.drop(columns=["category"])
 

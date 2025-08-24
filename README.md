@@ -8,6 +8,8 @@ Organisation:
 - Some adjectives/verbs/expressions in **[:3rd_place_medal: THIRD RANK](#3rd_place_medal-third-rank)**.
 - In each table, the rows are sorted alphabetically according to the French entry.
 
+:construction: WORK IN PROGRESS: still need to make a final review, especially for Spanish and German :warning:
+
 ---
 
 # :1st_place_medal: FIRST RANK
