@@ -3,6 +3,19 @@ import pandas as pd
 from gtts import gTTS
 from pydub import AudioSegment
 
+root_saving_dir = Path("tts_output")
+
+def merge_audio_files():
+    audio_files = root_saving_dir.glob("*.mp3")
+    audio_files = sorted(audio_files, key=lambda x: x.name)
+
+    audio_segments = [AudioSegment.from_mp3(str(audio_file)) for audio_file in audio_files]
+    final_audio = sum(audio_segments)
+
+    saving_path = root_saving_dir / "final.mp3"
+    final_audio.export(saving_path, format="mp3")
+    print(f"🎉 final generated : {saving_path}")
+
 
 def fix_german(word: str) -> str:
     # add article
@@ -26,6 +39,7 @@ def fix_english(word: str) -> str:
         return word
     if word in [
         "yellow",
+        "tired",
     ]:
         return word
     if word.startswith("to "):
@@ -69,7 +83,6 @@ def generate_tts(
         "Spanish": "es"
     }
 
-    root_saving_dir = Path("tts_output")
     saving_dir = root_saving_dir / prefix
     saving_dir.mkdir(exist_ok=True, parents=True)
 

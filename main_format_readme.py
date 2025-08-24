@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-from tts import generate_tts
+from tts import generate_tts, merge_audio_files
 from utils import read_file, save_file, yaml_load
 
 readme_template_path = Path("README_template.md")
@@ -14,6 +14,7 @@ url_text = "_Listen to the pronunciation (open this link in a new tab)_"
 mp3_urls = {
     1: "https://drive.google.com/file/d/1I20LN784qqa4PZpgssebm2EMt1CDmKqP/view?usp=sharing",
     2: "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
+    3: "https://drive.google.com/file/d/1Zu7MQqXm12DGIfnGjlxL0oBuCcL_p9cl/view?usp=sharing",
 }
 
 # sort alphabetically
@@ -32,8 +33,8 @@ def add_five_lang(content: str) -> str:
     )
 
     for category, content_placeholder in zip(
-            [1, 2],
-            ["\nCONTENT_FIVE_LANG\n", "\nCONTENT_FIVE_LANG_SECOND_RANK\n"]
+            [1, 2, 3],
+            ["\nCONTENT_FIVE_LANG\n", "\nCONTENT_FIVE_LANG_SECOND_RANK\n", "\nCONTENT_FIVE_LANG_THIRD_RANK\n"]
     ):
         _df = df[df["category"] == category]
         _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))
@@ -73,6 +74,9 @@ def main() -> None:
     content = read_file(file_path=readme_template_path)
     content = add_five_lang(content)
     save_file(file_path=readme_path, content=content)
+
+    # create mp3 from all mp3 present in the same directory
+    merge_audio_files()
 
 
 if __name__ == '__main__':
