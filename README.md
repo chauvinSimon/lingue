@@ -8,8 +8,7 @@ I am looking for words whose **translations** in French ( :fr: ), Italian ( :it:
 
 Organisation:
 - The best examples are collected in the section **[:1st_place_medal: FIRST RANK](#1st_place_medal-first-rank)**.
-- The other nouns in **[:2nd_place_medal: SECOND RANK](#2nd_place_medal-second-rank)**.
-- Some adjectives/verbs/expressions in **[:3rd_place_medal: THIRD RANK](#3rd_place_medal-third-rank)**.
+- The rest in **[:2nd_place_medal: SECOND RANK](#2nd_place_medal-second-rank)**.
 - In each table, the **rows are sorted alphabetically** according to the French entry.
 
 ---
