@@ -40,8 +40,8 @@ def add_five_lang(content: str) -> str:
             print(f"duplicate in {column_to_check}:\n{dup}")
 
     for category, content_placeholder in zip(
-            [1, 2, 3],
-            ["\nCONTENT_FIVE_LANG\n", "\nCONTENT_FIVE_LANG_SECOND_RANK\n", "\nCONTENT_FIVE_LANG_THIRD_RANK\n"]
+            [1, 2,],
+            ["\nCONTENT_FIVE_LANG\n", "\nCONTENT_FIVE_LANG_SECOND_RANK\n",]
     ):
         _df = df[df["category"] == category]
         _df = _df.sort_values(by="French", key=lambda col: col.map(key_without_article))

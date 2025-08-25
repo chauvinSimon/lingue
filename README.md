@@ -169,26 +169,6 @@ Organisation:
 | 43  |              l'éventail              |           il ventaglio            |              der Fächer              |            the fan            |            el abanico             |       :dash:       |
 
 ---
-
-# :3rd_place_medal: THIRD RANK
-
-:arrow_forward: [ _Listen to the pronunciation (open this link in a new tab)_ ](https://drive.google.com/file/d/10xHgtNsL4ZsGMPndqQbh5G0sxbUz0GfH/view?usp=sharing) :speaking_head: :loud_sound:
-
-|  #  |  French ( :fr: )  |  Italian ( :it: )  |   German ( :de: )    |            English ( :uk: )             |   Spanish ( :es: )    |      :wink:      |
-|:---:|:-----------------:|:------------------:|:--------------------:|:---------------------------------------:|:---------------------:|:----------------:|
-|  1  |      arroser      |     annaffiare     |        gießen        |                to water                 |         regar         |  :sweat_drops:   |
-|  2  |      bailler      |    sbadigliare     |        gähnen        |                 to yawn                 |       bostezar        |  :yawning_face:  |
-|  3  |      boiter       |     zoppicare      |       humpeln        |                 to limp                 |        cojear         |    :walking:     |
-|  4  |     dommage!      |      peccato!      |       schade!        |                 a pity!                 | ¡Qué pena! (lástima!) |      :cry:       |
-|  5  | entre guillemets  |   tra virgolette   | in Anführungszeichen |           in inverted commas            |    entre comillas     | :speech_balloon: |
-|  6  |      fatigué      |       stanco       |         müde         |                  tired                  |        cansado        |    :sleeping:    |
-|  7  |      fermer       |      chiudere      |      schließen       |                to close                 |        cerrar         |      :lock:      |
-|  8  |       jaune       |       gialla       |         gelb         |                 yellow                  |       amarilla        | :yellow_circle:  |
-|  9  | Mr. je-sais-tout  |      saccente      |     besserwisser     |             the know-it-all             |      sabelotodo       |   :nerd_face:    |
-| 10  |   pile ou face    |   testa o croce    |     der Münzwurf     |            the coin flipping            |      cara o cruz      |      :coin:      |
-| 11  |  péter un câble   |      sclerare      |      ausflippen      | to freak out (to go nuts) (to flip out) |      desmadrarse      | :exploding_head: |
-
----
 ---
 
 Thank you for your interest!
